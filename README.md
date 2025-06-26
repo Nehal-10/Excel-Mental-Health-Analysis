@@ -34,4 +34,23 @@ Problem Statements:
 9.Avg. Productivity Score by Mental Health Risk
 10.Distribution of mental health risk levels in the overall population?
 
+Insights:
+1. Age 40–50 and 50–60 have the highest number of people in the High risk category.
+2. Youngest and oldest groups show fewer high-risk individuals 
+3. Medium risk is the most common across all age groups:
+4.Males have slightly higher chances to be in  High risk category.
+5. Students have the highest proportion of high-risk cases.
+6. Self-employed individuals have the highest proportion of Low risk
+7.On-site work environments may need more mental health interventions and support.
+8. Higher proportion of people do not seeks treatment even after having Mental Health History.
+9. Higher proportion of people do not seeks treatment even after having Mental Health Risk.
+10. Higher the depression, lower the productivity score. Depression is a major factor influencing productivity.
+11.This dataset suggests sleep duration alone may not strongly predict stress level.
+12. As mental health risk increases, average productivity decreases significantly.
+13.Most of the people have higher chances of having medium Mental Health Risk.
+
+Social Media Post:
+LinkedIn Post 
+Link : https://www.linkedin.com/posts/nehal-jain-1694b031b_mentalhealthawareness-exceldashboard-dataanalytics-activity-7335489311779262464-9K03?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFENm-EBx7j_8sBOAmJ57S3iCgyufl4zXz0
+
  
